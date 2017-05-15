@@ -1,11 +1,9 @@
 <?php
 
-namespace UserBundle;
+namespace CarBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class UserBundle extends Bundle
+class CarBundle extends Bundle
 {
-
 }
-
